@@ -38,7 +38,7 @@ install_requires = [
     'pathlib2>=2.3.5;python_version<"3.5"',
     'python-dateutil~=2.8.1',
     'requests~=2.22.0',
-    'ruamel.yaml~=0.16.5',
+    'ruamel.yaml',
     'scandir>=1.10.0;python_version<"3.5"',
 ]
 
